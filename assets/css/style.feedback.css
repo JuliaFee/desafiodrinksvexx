@@ -20,7 +20,7 @@ body{
 }
 #botao{
     background-color: rgb(168, 109, 224);
-    padding: 10px;
+    padding: 20px;
 }
 #botao:hover{
     background-color: blueviolet;
