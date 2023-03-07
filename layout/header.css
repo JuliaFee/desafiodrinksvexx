@@ -14,5 +14,8 @@ header {
     text-align:center;
 }
 .logo {
-    
+    width: 64px;
+    height: 64px;
+    margin-top: 5px;
+    text-align: center;
 }
