@@ -1,5 +1,8 @@
-footer{
+body {
+    margin: 0%;
+    bottom: 0%;
+    text-align: center;
     background-color: black;
-    font-family: verdana;
- text-align: center;   
- }
+    font-family: sans-serif;
+    color:aliceblue
+}
