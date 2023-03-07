@@ -1,4 +1,10 @@
 body{
+    font-family:'verdana'}
+    
+    #bolota {
+    display: flex;
+}
+.carddrink {
     font-family:'verdana';
     margin: 0;
 }
@@ -21,6 +27,11 @@ body{
     padding: 30px;
     margin: 20px;
     display: flex;
+    width: 60%;
+}
+.imagemdrink{
+    width: 250px;
+    height: 155px;
 }
 #drinks1{
     width: 60%;
