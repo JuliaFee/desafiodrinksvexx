@@ -56,3 +56,11 @@ body{
     width: 250px;
     height: 155px;
 }
+#header{
+    width: 100%;
+    margin: 0;
+}
+#footer{
+    width: 100%;
+    margin: 0;
+}
