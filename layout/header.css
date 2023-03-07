@@ -4,4 +4,10 @@ body {
 }
 header {
     text-align: center;
+    background-color: black;
+}
+.anav {
+    color: white;
+    text-decoration: none;
+
 }
