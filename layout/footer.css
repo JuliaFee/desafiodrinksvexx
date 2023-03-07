@@ -1,13 +1,12 @@
-body{
-margin: 0%;
-bottom: 0%;
-text-align: center;
-background-color: black;    
+body {
+    margin: 0%;
+    bottom: 0%;
+    text-align: center;
+    background-color: black;
 }
 
 footer {
     background-color: black;
     font-family: verdana;
- text-align: center;   
- 
+    text-align: center;
 }
