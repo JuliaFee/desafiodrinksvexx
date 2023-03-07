@@ -29,9 +29,10 @@ ul {
     padding-left: 0%;
 }
 li {
-    margin-left: 50px;
+    margin-left: 20px;
     text-align: center;
     padding: 10px;
+border: 100px;
 }
 li:hover {
     background-color: rgb(199, 79, 255);
@@ -40,4 +41,19 @@ li:hover {
 
 #menu {
     margin: 0;
+}
+.anav2 {
+    color: black;
+    text-decoration: none;
+    display: block;
+    font-family:sans-serif;
+    text-align:center;
+    padding: 0;
+    margin: 0%;
+    border: 0;
+}
+p {
+border: 0;
+margin: 0;
+padding: 0;
 }
