@@ -10,6 +10,14 @@ body{
 #texto{
     padding: 10px;
 }
+.card2{
+    border-left: 25px solid rgb(128, 55, 128);
+    border-radius: 10px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: 20px;
+    display: flex;
+}
 .card1{
     border-left: 25px solid rgb(128, 55, 128);
     border-radius: 10px;
@@ -20,6 +28,9 @@ body{
 }
 #drinks1{
     width: 60%;
+}
+#bolota2{
+    display: flex;
 }
 #bolota {
     display: flex;
@@ -34,6 +45,10 @@ body{
     width: 60%;
 }
 .imagemdrink{
+    width: 250px;
+    height: 155px;
+}
+.fotolegal{
     width: 250px;
     height: 155px;
 }
