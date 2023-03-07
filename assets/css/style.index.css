@@ -1,2 +1,27 @@
 body{
     font-family:'verdana';
+    margin: 0;
+}
+#cardtexto{
+    display: flex;
+}
+#titulo{
+    text-align: center;
+}
+#seçao{
+    display: flex;
+}
+#texto{
+    padding: 10px;
+}
+.card1{
+    border-left: 25px solid rgb(128, 55, 128);
+    border-radius: 10px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: 20px;
+    display: flex;
+}
+#drinks1{
+    width: 60%;
+}
