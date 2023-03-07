@@ -21,8 +21,12 @@ body{
 }
 #botao{
     background-color: rgb(168, 109, 224);
-    padding: 20px;
+    padding-top: 10px;
+    margin-top: 20px;
 }
 #botao:hover{
     background-color: blueviolet;
+}
+label{
+    font-family: sans-serif;
 }
