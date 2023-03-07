@@ -9,6 +9,7 @@ body{
     text-align: center;
 }
 #texto{
+    display: flex;
     padding: 10px;
 }
 .card1{
