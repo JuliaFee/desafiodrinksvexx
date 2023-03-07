@@ -13,7 +13,7 @@ h1{
     margin: auto;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
- 
+    text-align: center;
 }
 body{
     background-color: rgb(255, 255, 255);
