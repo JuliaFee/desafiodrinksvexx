@@ -9,5 +9,17 @@ header {
 .anav {
     color: white;
     text-decoration: none;
-
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+.logo {
+    width: 64px;
+    height: 64px;
+    margin-top: 5px;
+    text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: center;
 }
